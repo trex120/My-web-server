@@ -2,4 +2,7 @@ Sample text file
 
 First line of file
 2_th line of file
+<<<<<<< HEAD
 Second line of file
+=======
+>>>>>>> parent of c858741... aa
