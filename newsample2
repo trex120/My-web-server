@@ -1,7 +1,5 @@
 Sample text file
 
 First line of file
-<<<<<<< HEAD
 2_th line of file
-=======
->>>>>>> parent of 37bbc94... Added second line of file
+Second line of file
