@@ -2,4 +2,8 @@ Sample fie
 
 First line
 
+<<<<<<< HEAD
 Second line
+=======
+2_th line
+>>>>>>> 55d0300513fb8be7a9c1213011e78bd0f7ff4450
